@@ -4,10 +4,12 @@ title: About Us
 subtitle: We want to put most of our knowledge here.
 ---
 
-### Tarek Stark 
+## Tarek Stark 
+
 Tarek Stark is a consultant with a specialization in infrastructures / cloud architectures for SAP landscapes, with ten years of proven expertise in IT architecture and informatics. He was able to develop his knowledge in many long-term projects and in different customer situations.
 
-## My story
+
+### My Skills
 
 German native speaker English business fluent
 
@@ -23,9 +25,8 @@ Windows Administration (Client, Server)
 
 Migrations / Transitions of IT landscapes
 
-##
 
-Methods / Technologies
+### Methods / Technologies
 
 SAP architecture (e.g. BTP)
 
