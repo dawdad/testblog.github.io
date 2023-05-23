@@ -4,13 +4,33 @@ title: About Us
 subtitle: We want to put most of our knowledge here.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Tarek Stark 
+Tarek Stark is a consultant with a specialization in infrastructures / cloud architectures for SAP landscapes, with ten years of proven expertise in IT architecture and informatics. He was able to develop his knowledge in many long-term projects and in different customer situations.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## My story
 
-What else do you need?
+German native speaker English business fluent
 
-### My story
+IT architecture (On Premise, Azure, AWS, Stack-IT)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+SAP Architect
+
+Support for migration R3 / S4 (Greenfield / Brownfield)
+
+Linux Administration (RHEL, Centos, SUSE, Ubuntu)
+
+Windows Administration (Client, Server)
+
+Migrations / Transitions of IT landscapes
+
+##
+
+Methods / Technologies
+
+SAP architecture (e.g. BTP)
+
+On Premise (Network, Storage, Server)
+
+Azure / AWS
+
+Ansible & Bash
