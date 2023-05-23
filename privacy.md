@@ -26,12 +26,10 @@ Stand: 23. Mai 2023
 ## Verantwortlicher
 
 Tarek Stark
-Max-Herz-Ring 163
-22159 Hamburg
 
 E-Mail-Adresse:
 
-[tarekstark@dawdad.de](#)
+[info@dawdad.de](#)
 
 ## Übersicht der Verarbeitungen
 
