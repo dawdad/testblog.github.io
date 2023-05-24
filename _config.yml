@@ -20,7 +20,7 @@ author: From nerds for nerds
 ###############################################
 
 navbar-links:
-  Über uns: "aboutme"
+  about us: "aboutme"
   #Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
