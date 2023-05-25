@@ -20,13 +20,8 @@ author: From nerds for nerds
 ###############################################
 
 navbar-links:
-<<<<<<< HEAD
-  &Uuml;ber uns: "aboutme"
+  Team: "aboutme"
   Ressourcen:
-=======
-  about us: "aboutme"
-  #Resources:
->>>>>>> parent of 0c0373c (changes on config)
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Impressum: "impressum"
