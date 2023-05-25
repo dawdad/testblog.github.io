@@ -20,8 +20,8 @@ author: From nerds for nerds
 ###############################################
 
 navbar-links:
-  about us: "aboutme"
-  Resources:
+  &Uuml;ber uns: "aboutme"
+  Ressourcen:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Impressum: "impressum"
