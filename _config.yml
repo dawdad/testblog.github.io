@@ -21,7 +21,7 @@ author: From nerds for nerds
 
 navbar-links:
   about us: "aboutme"
-  #Resources:
+  Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Impressum: "impressum"
