@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: IT Blog for Friends (IT-Blog für Freunde)
+title: dawdads tech journey
 
 # Your name to show in the footer
-author: From nerds for nerds 
+author: Tarek Stark
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -60,7 +60,7 @@ social-network-links:
  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: tarek-c-h-stark-04a46b5b
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

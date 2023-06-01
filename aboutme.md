@@ -1,37 +1,11 @@
 ---
 layout: page
-title: About Us 
-subtitle: We want to put most of our knowledge here.
+title: Das Team
+subtitle: Infrastructure, Cloud & Information Security
 ---
 
-## Tarek Stark 
+<a href="https://www.linkedin.com/in/tarek-c-h-stark-04a46b5b/">Tarek Stark</a> ist ein IT-Consultant mit Schwerpunkt auf Infrastruktur und Cloud-Architekturen für SAP-Landschaften. Er verfügt über zehn Jahre Erfahrung im IT-Bereich und ist der Managing Partner sowie Leiter des Geschäftsbereichs Infrastructure, Cloud & Cybersecurity bei der <a href="https://www.freonit.com/">Freonit GmbH</a>.
 
-Tarek Stark is a consultant with a specialization in infrastructures / cloud architectures for SAP landscapes, with ten years of proven expertise in IT architecture and informatics. He was able to develop his knowledge in many long-term projects and in different customer situations.
+<a href="https://www.linkedin.com/in/tpschuster/">Tobias Schuster</a> ist IT-Consultant bei der <a href="https://www.freonit.com/">Freonit GmbH</a> und spezialisiert sich auf Information Security. Seine berufliche Laufbahn begann bereits im Jahr 2003 in der IT-Branche, wobei er schließlich den Schwerpunkt auf IT-Sicherheit gesetzt hat und in diesem Bereich geblieben ist.
 
-
-### My Skills
-
-German native speaker English business fluent
-
-IT architecture (On Premise, Azure, AWS, Stack-IT)
-
-SAP Architect
-
-Support for migration R3 / S4 (Greenfield / Brownfield)
-
-Linux Administration (RHEL, Centos, SUSE, Ubuntu)
-
-Windows Administration (Client, Server)
-
-Migrations / Transitions of IT landscapes
-
-
-### Methods / Technologies
-
-SAP architecture (e.g. BTP)
-
-On Premise (Network, Storage, Server)
-
-Azure / AWS
-
-Ansible & Bash
+Beide teilen die Leidenschaft für IT Consulting, haben eine Vorliebe für Linux und Open Source Software, besitzen root-Rechte auf gemeinsamen Systemen und führen nicht nur darüber endlose Diskussionen.
