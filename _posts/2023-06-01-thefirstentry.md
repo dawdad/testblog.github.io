@@ -3,7 +3,7 @@ layout: post
 title: Der erste Blogeintragt
 subtitle: Erster Post
 gh-repo: dawdad/testblog.github.io
-tags: [Author: Tarek]
+tags: [Tarek]
 comments: false
 full-width: false
 last-updated: true
