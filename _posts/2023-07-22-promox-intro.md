@@ -16,7 +16,7 @@ last-updated: true
 
 ## Einleitung 
 
-Diese Blog reihe wird einen PoC (Proof of Concept) mit Proxmox begleiten und ob Promox VMWare ESXi ersetzen kann, und ob dies ggf. eine Lösung für den produktiven Einsatz ist. 
+Die Ersten Blogeinträge werden meine Erfahrung und einen PoC (Proof of Concept) mit **Proxmox** begleiten und ob Promox **VMWare ESXi** ersetzen kann. Die Spanneste Frage ist ob es eine Lösung für den produktiven Einsatz bei Kunden ist.
 
 Bei mir steht Proxmox schon länger auf der ToDo Liste, dies hat diverse Gründe, den Preis für Support welcher im Vergleich zu VMWare (Essentials Paket) geringer ausfällt. Auch der Funktionsumfang Out of the Box bestärkt mich dieses Produkt zu evaluieren. 
 
