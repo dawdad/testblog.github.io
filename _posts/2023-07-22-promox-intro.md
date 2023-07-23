@@ -2,7 +2,7 @@
 title: Intro Promox version 8.0
 subtitle: VMWare Migration / Produktiv Einsatz
 gh-repo: dawdad/testblog.github.io
-tags: [Tarek,Proxmox,Linux]
+tags: [Tarek,Proxmox,VMWare,HPServer,Linux]
 comments: true
 full-width: false
 last-updated: true
@@ -36,16 +36,22 @@ Die Installations Screenshots sind von der VMWare installation unterscheiden Sic
 <br/>
 > Alle Einstellung können im System nach der Installation noch angepasst werden!
 
+<pre>test-1</pre>
 ![]({{ '/assets/img/2023-07-22-promox-intro-1.png' | relative_url }})
-<br/>
+
+<pre>test-1</pre>
 ![]({{ '/assets/img/2023-07-22-promox-intro-2.png' | relative_url }})
-<br/>
+
+<pre>test-1</pre>
 ![]({{ '/assets/img/2023-07-22-promox-intro-3.png' | relative_url }})
-<br/>
+
+<pre>test-1</pre>
 ![]({{ '/assets/img/2023-07-22-promox-intro-4.png' | relative_url }})
-<br/>
+
+<pre>test-1</pre>
 ![]({{ '/assets/img/2023-07-22-promox-intro-5.png' | relative_url }})
-<br/>
+
+<pre>test-1</pre>
 ![]({{ '/assets/img/2023-07-22-promox-intro-6.png' | relative_url }})
 <br/>
 <br/>
