@@ -1,6 +1,6 @@
 ---
 title: Intro Promox version 8.0
-subtitle: VMWare Migration / Produktiv Einsatz
+subtitle: PoC Setup Beschreibung / Installation Proxmox 8.x
 gh-repo: dawdad/testblog.github.io
 tags: [Tarek,Proxmox,VMWare,HPServer,Linux]
 comments: true
