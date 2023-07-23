@@ -37,22 +37,32 @@ Die Installations Screenshots sind von der VMWare installation unterscheiden Sic
 > Alle Einstellung können im System nach der Installation noch angepasst werden!
 
 > Auswählen ob Console (ncurses) oder GUI
+
 ![]({{ '/assets/img/2023-07-22-promox-intro-1.png' | relative_url }})
 
 > Akzeptieren der EULA 
+
 ![]({{ '/assets/img/2023-07-22-promox-intro-2.png' | relative_url }})
 
 > Einstellen der Länderkennung / Timezone / Tastaturlayout
+
 ![]({{ '/assets/img/2023-07-22-promox-intro-3.png' | relative_url }})
 
 > Benutzer Passwort und E-Mail
+
 ![]({{ '/assets/img/2023-07-22-promox-intro-4.png' | relative_url }})
 
 > Auswählen des Management Netzwerkinterface
+
 ![]({{ '/assets/img/2023-07-22-promox-intro-5.png' | relative_url }})
 
 > Zusammenfassung der Einstellungen
+
 ![]({{ '/assets/img/2023-07-22-promox-intro-6.png' | relative_url }})
+
+> Nach der Installation via Browser die IP Adresse mit https und :8006 Port aufrufen und das Selbst Signierte Zertifikat Akzeptieren. Es muss der Benutzer **root** und das passwort aus der Installation verwendet werden! 
+
+![]({{ '/assets/img/2023-07-22-promox-intro-7.png' | relative_url }})
 
 <br />
 <br />
