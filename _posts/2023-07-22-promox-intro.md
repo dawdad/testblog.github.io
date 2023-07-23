@@ -9,7 +9,7 @@ last-updated: true
 ---
 
 
-### Einleitung 
+## Einleitung 
 
 Diese Blog reihe wird einen PoC (Proof of Concept) mit Proxmox begleiten und ob Promox VMWare ESXi ersetzen kann, und ob dies ggf. eine Lösung für den produktiven Einsatz ist. 
 
@@ -28,26 +28,25 @@ Wir starten mit einer einfachen Netzwerkkonfiguration und verbinden den Server m
 
 Die Installation von Proxmox sieht wie folgt aus: 
 
-Download der aktuellen ISO-Dateien für Proxmox VE (Virtual Environment): https://enterprise.proxmox.com/iso/
+Download der aktuellen ISO-Dateien für Proxmox VE (Virtual Environment): [https://enterprise.proxmox.com/iso/](https://enterprise.proxmox.com/iso/)
 
 Die Installations Screenshots sind von der VMWare installation unterscheiden Sich aber zu der Hardware installation kaum. 
 
-#### Installations Screenshots:
-
-
+## Installations Screenshots:
+<br>
 > Alle Einstellung können im System nach der Installation noch angepasst werden!
 
 ![]({{ '/assets/img/2023-07-22-promox-intro-1.png' | relative_url }})
-
+<br>
 ![]({{ '/assets/img/2023-07-22-promox-intro-2.png' | relative_url }})
-
+<br>
 ![]({{ '/assets/img/2023-07-22-promox-intro-3.png' | relative_url }})
-
+<br>
 ![]({{ '/assets/img/2023-07-22-promox-intro-4.png' | relative_url }})
-
+<br>
 ![]({{ '/assets/img/2023-07-22-promox-intro-5.png' | relative_url }})
-
+<br>
 ![]({{ '/assets/img/2023-07-22-promox-intro-6.png' | relative_url }})
-
+<br>
 
 > Added Pictures
