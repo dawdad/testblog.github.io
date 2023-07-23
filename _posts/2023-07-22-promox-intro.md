@@ -33,20 +33,19 @@ Download der aktuellen ISO-Dateien für Proxmox VE (Virtual Environment): [https
 Die Installations Screenshots sind von der VMWare installation unterscheiden Sich aber zu der Hardware installation kaum. 
 
 ## Installations Screenshots:
-<br>
+<br/>
 > Alle Einstellung können im System nach der Installation noch angepasst werden!
 
 ![]({{ '/assets/img/2023-07-22-promox-intro-1.png' | relative_url }})
-<br>
+<br/>
 ![]({{ '/assets/img/2023-07-22-promox-intro-2.png' | relative_url }})
-<br>
+<br/>
 ![]({{ '/assets/img/2023-07-22-promox-intro-3.png' | relative_url }})
-<br>
+<br/>
 ![]({{ '/assets/img/2023-07-22-promox-intro-4.png' | relative_url }})
-<br>
+<br/>
 ![]({{ '/assets/img/2023-07-22-promox-intro-5.png' | relative_url }})
-<br>
+<br/>
 ![]({{ '/assets/img/2023-07-22-promox-intro-6.png' | relative_url }})
-<br>
-
-> Added Pictures
+<br/>
+<br/>
