@@ -1,5 +1,5 @@
 ---
-title: Intro Promox version 8.0
+title: Part-1 - Intro Promox version 8.0
 subtitle: PoC Setup Beschreibung / Installation Proxmox 8.x
 gh-repo: dawdad/testblog.github.io
 tags: [Tarek,Proxmox,VMWare,HPServer,Linux]
