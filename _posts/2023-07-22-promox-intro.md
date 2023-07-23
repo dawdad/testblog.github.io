@@ -20,7 +20,7 @@ Mit dem Erscheinen von Proxmox Version 8.x am 22. Juni 2023 habe ich mir die ISO
 > Alle Angaben erfolgten nach besten Wissen und Gewissen, ohne das eine Gewähr für die Richtigkeit, wir freuen uns auf anregungen und Feedback. 
 
 
-###Part-1 Konfigurationsdesign
+### Part-1 Konfigurationsdesign
 
 Ich beginne mit einem Router der für mich als DHCP/DNS Server fungiert, ich habe einen ProLiant DL380 Gen9 mit 4x 1GE Ports und einer LOM Karte mit 2x 10GE die später noch zum Einsatz kommt. 
 
@@ -32,26 +32,26 @@ Download der aktuellen ISO-Dateien für Proxmox VE (Virtual Environment): [https
 
 Die Installations Screenshots sind von der VMWare installation unterscheiden Sich aber zu der Hardware installation kaum. 
 
-## Installations Screenshots:
+### Installations Screenshots:
 <br/>
 > Alle Einstellung können im System nach der Installation noch angepasst werden!
 
-<pre>test-1</pre>
+<pre>Auswählen ob Console (ncurses) oder GUI</pre>
 ![]({{ '/assets/img/2023-07-22-promox-intro-1.png' | relative_url }})
 
-<pre>test-1</pre>
+<pre>Akzeptieren der EULA</pre>
 ![]({{ '/assets/img/2023-07-22-promox-intro-2.png' | relative_url }})
 
-<pre>test-1</pre>
+<pre>Einstellen der Länderkennung / Timezone / Tastaturlayout</pre>
 ![]({{ '/assets/img/2023-07-22-promox-intro-3.png' | relative_url }})
 
-<pre>test-1</pre>
+<pre>Benutzer Passwort und E-Mail</pre>
 ![]({{ '/assets/img/2023-07-22-promox-intro-4.png' | relative_url }})
 
-<pre>test-1</pre>
+<pre>Auswählen des Management Netzwerkinterface</pre>
 ![]({{ '/assets/img/2023-07-22-promox-intro-5.png' | relative_url }})
 
-<pre>test-1</pre>
+<pre>Zusammenfassung der Einstellungen</pre>
 ![]({{ '/assets/img/2023-07-22-promox-intro-6.png' | relative_url }})
 <br/>
 <br/>
