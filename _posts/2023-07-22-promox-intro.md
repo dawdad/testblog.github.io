@@ -8,6 +8,11 @@ full-width: false
 last-updated: true
 ---
 
+# Inhaltsverzeichnis
+
+[Einleitung](#einleitung)
+[PoC Aufbau](#part-1-konfigurationsdesign)
+[Installation Proxmox 8.x](#installations-screenshots)
 
 ## Einleitung 
 
