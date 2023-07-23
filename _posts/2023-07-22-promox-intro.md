@@ -10,9 +10,9 @@ last-updated: true
 
 # Inhaltsverzeichnis
 
-[Einleitung](#einleitung)
-[PoC Aufbau](#part-1-konfigurationsdesign)
-[Installation Proxmox 8.x](#installations-screenshots)
+1. [Einleitung](#einleitung)
+2. [PoC Aufbau](#part-1-konfigurationsdesign)
+3. [Installation Proxmox 8.x](#installations-screenshots)
 
 ## Einleitung 
 
