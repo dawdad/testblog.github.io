@@ -37,7 +37,7 @@ Die Installations Screenshots sind von der VMWare installation unterscheiden Sic
 
 > Alle Einstellung können im System nach der Installation noch angepasst werden!
 
-![image info](2023-07-22-promox-intro-1.png)
+![image info](/2023-07-22-promox-intro-1.png)
 
 ![image info](2023-07-22-promox-intro-2.png)
 
@@ -49,6 +49,5 @@ Die Installations Screenshots sind von der VMWare installation unterscheiden Sic
 
 ![image info](_posts/2023-07-22-promox-intro-6.png)
 
-[testblog](/testblog/_posts/2023-07-22-promox-intro-5.png)
+![testblog](/_posts/2023-07-22-promox-intro-5.png)
 
-![]({{ '/_posts/2023-07-22-promox-intro-6.png' | relative_url }})
