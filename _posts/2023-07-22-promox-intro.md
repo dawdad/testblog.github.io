@@ -51,3 +51,4 @@ Die Installations Screenshots sind von der VMWare installation unterscheiden Sic
 
 ![testblog](/_posts/2023-07-22-promox-intro-5.png)
 
+![]({{ '/assets/img/2023-07-22-promox-intro-1.png' | relative_url }})
