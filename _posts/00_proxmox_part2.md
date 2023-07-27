@@ -22,7 +22,15 @@ Proxmox benötigt für den Cluster Betrieb (nicht zu verwechseln mit HA (High Av
 
 # Systeme und ihr Aufbau
 
-Für die Planung des Setups sind zwei HP Server geplant, beide Server verfügugen über 4x 1GE Netzwerk Anschlüsse und 2x 10GE Anschlüsse
+Für die Planung des Setups sind zwei HP Server geplant, beide Server verfügugen über 4x 1GE Netzwerk Anschlüsse und 2x 10GE Anschlüsse, die vorteile einer Clusterlösung von Promox und der damit bestehenden Migrations Option von Containern und Virtuellen Maschinen werde ich eine Cluster Lösung ohne HA (High Avaliablity) planen. Hierdurch hat man direkt ein paar vorraussetungen z.B. Cluster Netzwerk für den CoroSync, ein Netzwerk für das Management (eigenes Subnetz ggf. eigener Anschluss) ein Netzwerk für die Frontend Kommunikation (Trunk Port für VLANs), Ein Migrations Netzwerk damit die Last beim verschieben von Virtuellen Maschinen nicht über das Management oder Frontend abgewickelt wird. 
+
+> Unter berücksichtung von nur drei Netzwerken ergibt sich folgendes layout mit drei Hosts:
+
+![]({{ '/assets/img/promox_netzwerk_setup_1.png' | relative_url }})
+
+
+
+
 
 > Quote
 
