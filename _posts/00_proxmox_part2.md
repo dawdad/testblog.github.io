@@ -11,7 +11,7 @@ last-updated: true
 # Inhaltsverzeichnis
 
 1. [Einleitung](#Into)
-2. [](#)
+2. [Systeme und ihr Aufbau](#systeme-und-ihr-aufbau)
 
 
 ## Intro
@@ -28,13 +28,3 @@ Für die Planung des Setups sind zwei HP Server geplant, beide Server verfüguge
 
 ![]({{ '/assets/img/promox_netzwerk_setup_1.png' | relative_url }})
 
-
-
-
-
-> Quote
-
-Link [https://xxx.xxx](https://xxx.xxx)
-
-
-![]({{ '/assets/img/xxxxx.png' | relative_url }})
