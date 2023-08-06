@@ -48,6 +48,11 @@ ZIELVERZEICHNIS: Z:\export\vmware\
 
 > Die virtuelle Maschine muss heruntergefahren sein.
 
+Die Namen der virtuellen Maschinen können über SSH im folgenden Pfad (Datastore) überprüft werden.
+
+```
+/vmfs/volumes/<DATASTORE>
+```
 
 
 > Export der Virtuellen Maschine
