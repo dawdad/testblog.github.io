@@ -40,11 +40,11 @@ ovftool.exe "vi://<ESXI-BENUTZER>:<PASSWORT>@<IP-HOSTNAME-ESXI/<VM-NAME>" <ZIELV
 
 > Im Exportverzeichnis wird ein Unterverzeichnis mit dem Namen der virtuellen Maschine angelegt.
 
-ESXI-BENUTZER: root
-PASSWORT: xxxx
-IP-HOSTNAME-ESXI: esxiserver01
-VM-NAME: WindowsServer01
-ZIELVERZEICHNIS: Z:\export\vmware\
+* ESXI-BENUTZER: root
+* PASSWORT: xxxx
+* IP-HOSTNAME-ESXI: esxiserver01
+* VM-NAME: WindowsServer01
+* ZIELVERZEICHNIS: Z:\export\vmware\
 
 > Die virtuelle Maschine muss heruntergefahren sein.
 
